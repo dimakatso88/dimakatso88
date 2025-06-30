@@ -29,10 +29,11 @@ I'm actively building projects that showcase my technical growth and my unique p
 
 | Project                           | Description                                                    | Status |
 |----------------------------------------|----------------------------------------------------------------|--------|
-| **Sales Analysis Dashboard**           | Analyze and visualize sales, costs, and profitability trends using Python & Power BI. | Planned |
+|**Medical Malpractice Dashboard**      |Collect, perform EDA and vizualize insights about medmal such as highest claims, age claiming most etc. | In Progress
+|**Sales Analysis Dashboard**           | Analyze and visualize sales, costs, and profitability trends using Python & Power BI. | Planned |
 | **Financial Statement Data Exploration** | Extract insights from income statement & balance sheet data with Python & SQL. | Planned |
 | **Fraud Detection Mini Project**       | Simple anomaly detection on financial transactions dataset . | Planned |
-| **KPI Tracker for Small Businesses**   | Build a dashboard that visualizes common KPIs . | Planned |
+**KPI Tracker for Small Businesses**   | Build a dashboard that visualizes common KPIs . | Planned |
 
 ---
 
