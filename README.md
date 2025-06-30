@@ -29,7 +29,9 @@ I'm actively building projects that showcase my technical growth and my unique p
 
 | Project                           | Description                                                    | Status |
 |----------------------------------------|----------------------------------------------------------------|--------|
-|**Medical Malpractice Dashboard**      |Collect, perform EDA and vizualize insights about medmal such as highest claims, age claiming most etc. | In Progress
+|**Claims Chatbot**                      | The primary purpose of this chatbot is to assist the claims devision in comparing a claims form to a policy wording document, to the insurance schedule prior to approving or rejecting a clients claim | In progress
+
+|**Medical Malpractice Dashboard**      |Collect, perform EDA and vizualize insights about medmal such as highest claims, age claiming most etc. | In Progress(EDA STAGE)
 |**Sales Analysis Dashboard**           | Analyze and visualize sales, costs, and profitability trends using Python & Power BI. | Planned |
 | **Financial Statement Data Exploration** | Extract insights from income statement & balance sheet data with Python & SQL. | Planned |
 | **Fraud Detection Mini Project**       | Simple anomaly detection on financial transactions dataset . | Planned |
