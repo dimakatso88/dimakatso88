@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Dimakatso. Please call me Dima😊🫶
-## 🌟 Junior Data Analyst | Ex-Accountant | Data Enthusiast
+## 🌟 Junior Data Analyst | Ex-Accountant | Data Enthusiast | AI & Data Science Passionate
 
 ---
 
